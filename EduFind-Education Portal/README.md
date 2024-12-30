@@ -1,5 +1,5 @@
 # EduFind: EDUCATION PORTAL 
-**##Web Application**
+**Web Application**
 
 ## Admin
 - **Register and login** to manage the portal.
